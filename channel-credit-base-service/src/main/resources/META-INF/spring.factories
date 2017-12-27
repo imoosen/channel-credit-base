@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.allinpay.channel.credit.base.service.config.MessageSourceAutoConfiguration

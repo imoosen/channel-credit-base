@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/channel-credit-base.iml" filepath="$PROJECT_DIR$/channel-credit-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/channel-credit-base-common/channel-credit-base-common.iml" filepath="$PROJECT_DIR$/channel-credit-base-common/channel-credit-base-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/channel-credit-base-database/channel-credit-base-database.iml" filepath="$PROJECT_DIR$/channel-credit-base-database/channel-credit-base-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/channel-credit-base-kafka/channel-credit-base-kafka.iml" filepath="$PROJECT_DIR$/channel-credit-base-kafka/channel-credit-base-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/channel-credit-base-service/channel-credit-base-service.iml" filepath="$PROJECT_DIR$/channel-credit-base-service/channel-credit-base-service.iml" />
+    </modules>
+  </component>
+</project>

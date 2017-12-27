@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="channel-base-common" />
+        <module name="channel-base-database" />
+        <module name="channel-base-kafka" />
+        <module name="channel-base-service" />
+        <module name="channel-base-util" />
+        <module name="channel-credit-base-common" />
+        <module name="channel-credit-base-database" />
+        <module name="channel-credit-base-kafka" />
+        <module name="channel-credit-base-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="channel-base" target="1.8" />
+      <module name="channel-base-common" target="1.8" />
+      <module name="channel-base-database" target="1.8" />
+      <module name="channel-base-kafka" target="1.8" />
+      <module name="channel-base-service" target="1.8" />
+      <module name="channel-credit-base" target="1.8" />
+      <module name="channel-credit-base-common" target="1.8" />
+      <module name="channel-credit-base-database" target="1.8" />
+      <module name="channel-credit-base-kafka" target="1.8" />
+      <module name="channel-credit-base-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
